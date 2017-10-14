@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 </head>
-
+//ini komen tambahan
 <body>
 <?php
 $host	= "localhost";
