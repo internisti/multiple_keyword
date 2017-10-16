@@ -6,6 +6,7 @@
 </head>
 //ini komen tambahan
 //ini komen tambahan kedua
+//ini komen tambahan ketiga
 <body>
 <?php
 $host	= "localhost";
