@@ -1,2 +1,2 @@
 # multiple_keyword
-proyek multiple keyword search engine pertama
+proyek multiple keyword search engine
