@@ -5,6 +5,7 @@
 <title>Untitled Document</title>
 </head>
 //ini komen tambahan
+//ini komen tambahan kedua
 <body>
 <?php
 $host	= "localhost";
